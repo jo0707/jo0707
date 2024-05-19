@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on some web & android app projects.
 - 🌱 I’m currently learning web & android development, machine learning soon.
 - 😄 I'm natively speak Indonesian and little bit English.
-- 📱  Also happy to tweaking android system.
+- 📱  Also happy to modify/tweak android system.
 
 <br/>
 <br/>
