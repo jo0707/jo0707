@@ -5,7 +5,7 @@
 - 🏫 Now studying at ITERA (Sumatra Institute of Technology).
 - 🎓 An alumni from SMK Negeri 9 Medan (Vocational High School).
 - 👨‍💻 I’m currently working on some web & android app projects.
-- 🌱 I’m currently learning web & android development, and machine learning.
+- 🌱 I’m currently learning web & android development, machine learning soon.
 - 😄 I'm natively speak Indonesian and little bit English.
 - 📱  Also happy to tweaking android system.
 
