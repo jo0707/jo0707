@@ -29,10 +29,10 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jo0707&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=Jo's+Github+Stats" />
+    <a href="https://github.com/jo0707/">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jo0707&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Jo's+Github+Stats" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/jo0707/">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jo0707&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
     </a>
 </p>
