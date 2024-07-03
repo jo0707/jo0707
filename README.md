@@ -45,9 +45,9 @@
 
 <p align="center">
     <a href="https://github.com/jo0707/">
-      <img width=340 align="center" src="https://github-readme-stats.vercel.app/api?username=jo0707&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Jo's+Github+Stats" />
+      <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=jo0707&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Jo's+Github+Stats" />
     </a>
     <a href="https://github.com/jo0707/">
-      <img width=288 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jo0707&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+      <img width=268 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jo0707&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
     </a>
 </p>
