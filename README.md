@@ -1,5 +1,11 @@
 <h1 align="center"><img src='hi.gif' alt='Hi' width="24"/> Hi, I'm Jo!</h1>
 
+<p align="center">
+  <a align="center" href="https://jooo.my.id" target="_blank">
+  <img align="center" style="border-radius:2px" src="https://img.shields.io/badge/jooo.my.id-white.svg?style=flat-square&logo=aseprite&logoColor=black" alt="jooo">
+  </a>
+</p>
+
 <br/>
 
 -   📔 Student at ITERA (Sumatra Institute of Technology)
@@ -36,9 +42,10 @@
 </p>
 
 <hr/>
+
 <p align="center">
     <a href="https://github.com/jo0707/">
-      <img width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=jo0707&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Jo's+Github+Stats" />
+      <img width=340 align="center" src="https://github-readme-stats.vercel.app/api?username=jo0707&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Jo's+Github+Stats" />
     </a>
     <a href="https://github.com/jo0707/">
       <img width=288 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jo0707&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
