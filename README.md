@@ -8,7 +8,7 @@
 
 <br/>
 
--   📔 Student at ITERA (Sumatra Institute of Technology)
+-   📔 Student at ITERA (Sumatera Institute of Technology)
 -   💻 Currently working on web & mobile app development
 -   🤖 Intrested in Machine Learning
 -   🏆 Has participated and won 1st place at LKS ITSSB North Sumatera.
