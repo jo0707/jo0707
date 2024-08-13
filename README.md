@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/Nuxt.js-%2300C58E?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js">
 <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/Node.js-%2334A853?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
+<!-- <img src="https://img.shields.io/badge/NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM"> -->
 <img src="https://img.shields.io/badge/Bun-%23000000?style=flat-square&logo=bun&logoColor=white" alt="Bun">
 <img src="https://img.shields.io/badge/Capacitor-%230074c1?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor">
 <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
+<!-- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"> -->
 <img src="https://img.shields.io/badge/PocketBase-%23EAEAEA.svg?style=flat-square&logo=pocketbase&logoColor=black" alt="PocketBase">
 <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux">
 <img src="https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
