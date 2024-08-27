@@ -1,7 +1,7 @@
 <h1 align="center"><img src='hi.gif' alt='Hi' width="24"/> Hi, I'm Jo!</h1>
 
 <p align="center">
-  <a align="center" href="https://jooo.my.id" target="_blank">
+  <a align="center" href="https://jooo.site" target="_blank">
   <img align="center" style="border-radius:4px" src="https://img.shields.io/badge/jooo.my.id-white.svg?style=flat-square&logoColor=black" alt="jooo">
   </a>
 </p>
