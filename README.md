@@ -2,7 +2,7 @@
 
 <p align="center">
   <a align="center" href="https://jooo.site" target="_blank">
-  <img align="center" style="border-radius:4px" src="https://img.shields.io/badge/jooo.my.id-white.svg?style=flat-square&logoColor=black" alt="jooo">
+  <img align="center" style="border-radius:4px" src="https://img.shields.io/badge/jooo.site-white.svg?style=flat-square&logoColor=black" alt="jooo">
   </a>
 </p>
 
